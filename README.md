@@ -2,7 +2,7 @@
 
 MyBookApp By Arfi Zulfiansyah
 
-![alt text](https://github.com/arfizart/myBook_store/assets/images/mockup.jpg?raw=true)
+![Mockup](assets/images/mockup.jpg?raw=true)
 
 This project is a starting point for a Flutter application.
 
